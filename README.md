@@ -3,9 +3,9 @@ A full-stack Spring Boot + HTML/CSS/JS e-commerce web application for managing a
 
 📸 Screenshots
 Product Listing Page
-ss1.png
+![App Screenshot](ss1.png)
 Product view Page
-ss2.png
+![App Screenshot](ss2.png)
 
 🛠️ Tech Stack
 LayerTechnologyBackendJava 17, Spring Boot 3.xORMSpring Data JPA / HibernateDatabaseMySQL / PostgreSQLBuild ToolMavenFrontendHTML5, CSS3, Vanilla JavaScriptStylingCustom CSS (Flipkart/Amazon inspired)Image StorageBinary (stored in DB as byte[])
@@ -175,7 +175,5 @@ xml<dependencies>
 
 
 👨‍💻 Author
-Your Name
+Gaurav Kumar
 
-GitHub: @your-username
-LinkedIn: your-linkedin
