@@ -58,7 +58,7 @@ Any modern browser (Chrome, Edge, Firefox)
 
 
 1. Clone the Repository
-bashgit clone https://github.com/your-username/automobile-ecommerce.git
+bashgit clone [https://github.com/your-username/automobile-ecommerce.git](https://github.com/Gaurav85218/AutoMart-E-Comerce-.git)
 cd automobile-ecommerce
 
 2. Configure the Database
